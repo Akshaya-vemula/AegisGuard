@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+plotly
+psutil
+watchdog
+fastapi
+uvicorn[standard]
+pydantic
+
